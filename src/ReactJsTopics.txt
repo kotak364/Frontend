@@ -1,0 +1,16 @@
+1 keys
+2 portal 
+3 Controlled and Uncontrolled components
+4 Higher order components
+5 JSX
+6 LifeCycle
+7 Pure components
+8 Redux
+9 Next JS
+10 Typescript
+11 Routing 
+12 Context 
+13 Class components
+14 Hooks
+15 React query
+16 React flux 
